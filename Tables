@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Test Table</title>
+</head>
+<body>
+    <h1>My Siblings</h1>
+   <table border="1">
+<thead>
+<tr> 
+<th>Name</th>
+<th>Age</th>
+<th>Gender</th>
+</tr>
+</thead>
+<tbody>
+    <tr>
+<th>Carter</th>
+<th>12</th>
+<th>boy</th>
+</tr>
+<tr>
+<th>Jeremy</th>
+<th>10</th>
+<th>boy</th>
+</tbody>
+   
+
+</table> 
+</body>
+</html>
